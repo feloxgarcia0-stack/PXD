@@ -1,0 +1,7 @@
+{
+  "name": "Transcriptor de Apuntes AI",
+  "description": "Convierte fotos de apuntes manuscritos (cursiva o molde) a texto digital y PDF. Requiere múltiples tomas para mayor precisión.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
